@@ -20,6 +20,32 @@
 
 </div>
 
+<br/>
+
+<!--
+  🎬 VIDEO EMBED NOTE:
+  GitHub strips real <iframe> YouTube embeds from README files — they will not play.
+  Below is a clickable thumbnail (click it → opens/plays your YouTube video).
+  For a TRUE autoplaying inline clip (like a GIF, muted, looping) instead of a click-through:
+    1. Go to any GitHub issue/PR/discussion on your own repo
+    2. Drag-and-drop your mp4 or gif file into the comment box
+    3. GitHub uploads it and gives you a link like:
+       https://github.com/user-attachments/assets/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx
+    4. Paste that link in place of the thumbnail block below — it will autoplay inline.
+-->
+
+<div align="center">
+
+### 🎬 See Me In Action
+
+<a href="https://youtu.be/zyIFo_lZaNw">
+  <img src="https://img.youtube.com/vi/zyIFo_lZaNw/maxresdefault.jpg" width="70%" alt="Watch Sathveek's intro video"/>
+</a>
+
+<sub>▲ click to play — walkthrough / intro reel</sub>
+
+</div>
+
 ---
 
 ### 💫 About Me
@@ -42,6 +68,61 @@ Idea → Prototype → Build → Break → Fix → Ship → Repeat
 - 📈 Trading Systems & Strategy Automation
 - 🏢 Building digital products through **NetQuoraX**
 - 💼 Freelancing & Paid Client Delivery
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+### 🕰️ My Journey So Far
+
+```
+📚 School → curious about how things work under the hood
+   ↓
+📖 Started selling e-books online → first taste of business & customers
+   ↓
+💻 Taught myself to code → HTML/CSS/JS, then full-stack
+   ↓
+🧾 First freelance gig → got paid to build a website, got hooked
+   ↓
+🤖 Built my first trading bot → fell into automation & APIs
+   ↓
+🎮 Picked up Unity → started building games on the side
+   ↓
+🎓 Joined GMRIT for AI & ML → academics + real projects, side by side
+   ↓
+🏢 Founded NetQuoraX → turned freelancing into an actual agency
+   ↓
+🚀 Now → shipping AI, web, automation & game projects in parallel
+```
+
+> *"Every project has taught me something different — from handling clients and deadlines to debugging production systems at 2 AM. And yes, 2 AM bugs are somehow always different."*
+
+---
+
+### ⚙️ How I Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Think in systems**
+I don't just write code for a feature — I think about how it connects to everything around it: the API, the database, the user, the business.
+
+**🔁 Ship, then iterate**
+I'd rather have something real in front of users fast, then improve it, than perfect something no one's touched yet.
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Solve, don't decorate**
+If a project doesn't solve a real problem for a real person, it doesn't make the cut for me.
+
+**🤝 Client-first freelancing**
+Years of paid client work taught me deadlines, scope, and communication — not just code.
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -120,6 +201,50 @@ I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas
 
 ---
 
+### 🎮 Game Dev Corner
+
+I don't just play games — I like building the systems behind them.
+
+`Unity` · `C#` · `3D Environments` · `FPS Prototypes` · `Vehicle Systems` · `NPC Waypoint AI` · `2D Gameplay` · `Browser Multiplayer` · `Phaser`
+
+My biggest gaming project right now is **ViperFlux.io** — a full multiplayer browser game built from scratch.
+
+---
+
+### 🤖 AI • Automation • APIs
+
+I like connecting systems together and making them talk to each other automatically.
+
+```
+   USER
+     │
+     ▼
+  WEB / APP
+     │
+     ▼
+ API / BACKEND
+     │
+   ┌─┴─┐
+   ▼   ▼
+  AI   DATABASE
+   │   │
+   └─┬─┘
+     ▼
+ AUTOMATION
+```
+
+`Generative AI` · `REST APIs` · `Telegram Bots` · `n8n Workflows` · `Data Processing` · `Technical Analysis Systems` · `Cloud Deployments`
+
+---
+
+### ☁️ Cloud Journey
+
+Currently deepening my cloud engineering skills across:
+
+`AWS EC2` · `S3` · `VPC` · `IAM` · `RDS` · `PostgreSQL` · `Vercel` · `Render` · `Netlify` · `Firebase` · `Cloudflare`
+
+---
+
 ### 📊 GitHub Performance
 
 <div align="center">
@@ -132,6 +257,29 @@ I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas
 <img src="https://streak-stats.demolab.com?user=Sathveek123&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
+
+<div align="center">
+
+#### 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Sathveek123/Sathveek123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="80%"/>
+
+<sub>if this doesn't show up, you need to set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on this repo first</sub>
+
+</div>
+
+---
+
+### 📈 Currently Learning
+
+```
+Artificial Intelligence → Generative AI → Cloud Architecture
+       → DevOps → Scalable Backend Systems → Product Engineering
+```
+
+Especially interested in the intersection of:
+
+**`AI × Software × Automation × Games × Entrepreneurship`**
 
 ---
 
@@ -164,6 +312,20 @@ while (developer) {
 ### 🤝 Let's Build Something
 
 Open to: **Freelance projects** · **Collaborations** · **Startup ideas** · **AI projects** · **Game dev** · **Automation systems**
+
+I read every message that lands in my inbox — whether it's a client brief, a collab idea, or just someone who wants to talk shop about AI or game dev.
+
+<div align="center">
+
+| | |
+|---|---|
+| 🎓 **Studying** | AI & Machine Learning, GMRIT |
+| 🏢 **Founder** | NetQuoraX |
+| 💼 **Open to** | Freelance & Full-time opportunities |
+| 📍 **Based in** | India |
+| ⚡ **Fun fact** | I've shipped more side projects than semesters completed |
+
+</div>
 
 <div align="center">
 
