@@ -1,24 +1,69 @@
-# 💫 About Me:
-I’m Sathveek, currently pursuing my final year in Artificial Intelligence & Machine Learning at GMRIT. Alongside academics, I’ve been building a career as a developer, freelancer, and entrepreneur.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1503264116251-35a269479413?auto=format&fit=crop&w=1350&q=80" alt="banner" width="100%"/>
+</p>
+
+<table width="100%">
+  <tr>
+    <td width="70%">
+
+# 💫 Hi, I'm Sathveek!
+
+I’m a final-year AI & ML student at GMRIT and a developer, freelancer, and entrepreneur. I build web apps, AI tools and automation that make life easier.
 
 <!-- Profile badges -->
 [![Followers](https://img.shields.io/github/followers/Sathveek123?label=Followers&style=social)](https://github.com/Sathveek123)
 [![Stars](https://img.shields.io/github/stars/Sathveek123?style=social)](https://github.com/Sathveek123?tab=repositories)
 [![Trophies](https://github-profile-trophy.vercel.app/?username=Sathveek123&theme=radical)](https://github.com/Sathveek123)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://linktr.ee/sathveeknalla)
+- 🔭 Currently: building and shipping web apps and AI utilities
+- 🌱 Learning: Rust, advanced TypeScript
+- 👯 Open to: frontend, APIs, and product collaborations
+- ⚡ Fun fact: I automate boring stuff and love dev tooling
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+</td>
+    <td width="30%" align="center">
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Sathveek123&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Sathveek123&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Sathveek123&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[<img src="https://avatars.githubusercontent.com/u/141230998?v=4" width="120" alt="avatar" />](https://github.com/Sathveek123)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Sathveek Nalla**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1da1f2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+</td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</p>
+
+---
+
+## 📌 Pinned Projects
+
+<p align="center">
+  <a href="https://github.com/Sathveek123/NetQuoraX-Agency"><img alt="NetQuoraX-Agency" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=NetQuoraX-Agency&theme=dark" /></a>
+  <a href="https://github.com/Sathveek123/Digital-Creators-Hub-"><img alt="Digital-Creators-Hub-" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=Digital-Creators-Hub-&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sathveek123/HFC-RESTAURENT-SOFTWARE-"><img alt="HFC-RESTAURENT-SOFTWARE-" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=HFC-RESTAURENT-SOFTWARE-&theme=dark" /></a>
+  <a href="https://github.com/Sathveek123/HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-"><img alt="HFC-CLOUD-KITCHEN..." src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sathveek123/Demand-and-Supply-Trading"><img alt="Demand-and-Supply-Trading" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=Demand-and-Supply-Trading&theme=dark" /></a>
+  <a href="https://github.com/Sathveek123/WEEKIE-AI-CAPTIONS"><img alt="WEEKIE-AI-CAPTIONS" src="https://github-readme-stats.vercel.app/api/pin/?username=Sathveek123&repo=WEEKIE-AI-CAPTIONS&theme=dark" /></a>
+</p>
 
 ---
 
@@ -26,31 +71,30 @@ I’m Sathveek, currently pursuing my final year in Artificial Intelligence & Ma
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sathveek123&theme=react-dark)
 
-[![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sathveek123&theme=github_dark)](https://github.com/Sathveek123)
+[![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Sathveek123&theme=dark&layout=compact)](https://github.com/Sathveek123)
 
 ---
 
 ## July 2026 — Highlights
-I was active on the following repositories during July 2026 (pushes / creates / updates). Click any repository to open it:
+I was active on the following repositories during July 2026 (pushes / creates / updates):
 
-- [NetQuoraX-Agency](https://github.com/Sathveek123/NetQuoraX-Agency) — active (pushes)
-- [Digital-Creators-Hub-](https://github.com/Sathveek123/Digital-Creators-Hub-) — active (created / pushes)
-- [HFC-RESTAURENT-SOFTWARE-](https://github.com/Sathveek123/HFC-RESTAURENT-SOFTWARE-) — active (pushes)
-- [HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-](https://github.com/Sathveek123/HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-) — active (created / pushes)
-- [DCH-LEAD-MANAGMENT-CRM](https://github.com/Sathveek123/DCH-LEAD-MANAGMENT-CRM) — created
-- [Demand-and-Supply-Trading](https://github.com/Sathveek123/Demand-and-Supply-Trading) — active (pushes)
-- [WEEKIE-AI-CAPTIONS](https://github.com/Sathveek123/WEEKIE-AI-CAPTIONS) — active (pushes)
+- [NetQuoraX-Agency](https://github.com/Sathveek123/NetQuoraX-Agency)
+- [Digital-Creators-Hub-](https://github.com/Sathveek123/Digital-Creators-Hub-)
+- [HFC-RESTAURENT-SOFTWARE-](https://github.com/Sathveek123/HFC-RESTAURENT-SOFTWARE-)
+- [HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-](https://github.com/Sathveek123/HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-)
+- [DCH-LEAD-MANAGMENT-CRM](https://github.com/Sathveek123/DCH-LEAD-MANAGMENT-CRM)
+- [Demand-and-Supply-Trading](https://github.com/Sathveek123/Demand-and-Supply-Trading)
+- [WEEKIE-AI-CAPTIONS](https://github.com/Sathveek123/WEEKIE-AI-CAPTIONS)
 
-More activity is available on your GitHub overview for July:
-https://github.com/Sathveek123?tab=overview&from=2026-07-01&to=2026-07-31
-
-If you want exact commit/PR/issue counts for July 2026 I can fetch and insert them into this section.
+More details: https://github.com/Sathveek123?tab=overview&from=2026-07-01&to=2026-07-31
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=Sathveek123&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  [![](https://komarev.com/ghpvc/?username=Sathveek123&icon=0&color=0)](https://visitcount.itsvg.in)
+</p>
 
-## 💰 You can help me by Donating
+## 💰 Support
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/sathveeknalla)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
