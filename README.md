@@ -30,6 +30,24 @@ I’m Sathveek, currently pursuing my final year in Artificial Intelligence & Ma
 
 ---
 
+## July 2026 — Highlights
+I was active on the following repositories during July 2026 (pushes / creates / updates). Click any repository to open it:
+
+- [NetQuoraX-Agency](https://github.com/Sathveek123/NetQuoraX-Agency) — active (pushes)
+- [Digital-Creators-Hub-](https://github.com/Sathveek123/Digital-Creators-Hub-) — active (created / pushes)
+- [HFC-RESTAURENT-SOFTWARE-](https://github.com/Sathveek123/HFC-RESTAURENT-SOFTWARE-) — active (pushes)
+- [HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-](https://github.com/Sathveek123/HFC-CLOUD-KITCHEN-SERVICES-WHITE-LABEL-BRAND-) — active (created / pushes)
+- [DCH-LEAD-MANAGMENT-CRM](https://github.com/Sathveek123/DCH-LEAD-MANAGMENT-CRM) — created
+- [Demand-and-Supply-Trading](https://github.com/Sathveek123/Demand-and-Supply-Trading) — active (pushes)
+- [WEEKIE-AI-CAPTIONS](https://github.com/Sathveek123/WEEKIE-AI-CAPTIONS) — active (pushes)
+
+More activity is available on your GitHub overview for July:
+https://github.com/Sathveek123?tab=overview&from=2026-07-01&to=2026-07-31
+
+If you want exact commit/PR/issue counts for July 2026 I can fetch and insert them into this section.
+
+---
+
 [![](https://komarev.com/ghpvc/?username=Sathveek123&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 💰 You can help me by Donating
