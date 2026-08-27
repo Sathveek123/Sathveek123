@@ -1,791 +1,403 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                           HERO                                         -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,35:17121f,70:33203f,100:111111&height=280&section=header&text=SATHVEEK%20NALLA&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DEVELOPER%20%C2%B7%20BUILDER%20%C2%B7%20FOUNDER%20%C2%B7%20AI%20EXPLORER&descAlignY=59&descSize=17&descColor=c8b6ff" width="100%" alt="Sathveek Nalla"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1100&color=C8B6FF&center=true&vCenter=true&width=760&lines=Building+Software+That+Actually+Does+Something;AI+%C3%97+Automation+%C3%97+Web+%C3%97+Games;From+Idea+to+Prototype+to+Product;Founder+%40+NetQuoraX;Always+Building.+Always+Learning." alt="Typing introduction"/>
+<!-- HERO BANNER — cozy warm night-coder gradient, animated wave, stable (capsule-render, no dead links) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1423,35:5c3a21,70:b5651d,100:2a1a12&height=280&section=header&text=Sathveek%20Nalla&fontSize=58&fontColor=ffe8cc&animation=fadeIn&fontAlignY=36&desc=Developer%20·%20Builder%20·%20Founder%20·%20AI%20Explorer&descAlignY=58&descSize=19&descColor=ffcf99" width="100%" alt="Sathveek Nalla — Developer & Founder"/>
 
 <br/>
 
-<a href="https://sathveek-official-resume.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E8A855&center=true&vCenter=true&width=650&lines=Full-Stack+Developer+%26+AI%2FML+Student;Building+AI%2C+Automation+%26+Games;Founder+%40+NetQuoraX;Turning+Ideas+Into+Shipped+Products" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br/>
 
-<a href="https://net-quora-x-agency.vercel.app/">
-<img src="https://img.shields.io/badge/NETQUORAX-111111?style=for-the-badge&logo=rocket&logoColor=8B5CF6"/>
-</a>
-
-<a href="https://github.com/Sathveek123">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2a1a12?style=for-the-badge&logo=vercel&logoColor=ffcf99"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-B5651D?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sathveek123&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Sathveek123&label=Profile%20Views&color=B5651D&style=flat-square"/>
 
 </div>
 
----
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+
+<br/>
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+### 🎬 A Little Vibe Before You Scroll
+
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="55%" alt="cozy coding vibe"/>
+
+<sub>autoplaying, no redirects — just the vibe while you read</sub>
 
 </div>
 
-# 👋 About Me
-
-I'm **Sathveek Nalla** — an **AI & Machine Learning student, full-stack developer, freelancer and entrepreneur** who enjoys turning ideas into software that people can actually use.
-
-I'm not really the "learn one technology and stay inside one box" kind of developer.
-
-I move between **web applications, AI, automation, APIs, cloud systems, game development and product building** depending on the problem I'm trying to solve.
-
-My journey started outside traditional software development.
-
-I experimented with **e-commerce and selling digital products**, which gave me my first understanding of customers, business and actually getting someone to pay for something I created.
-
-That slowly turned into **freelancing**.
-
-Then came websites.
-
-Then backend systems.
-
-Then bots.
-
-Then APIs.
-
-Then trading automation.
-
-Then game development.
-
-Then AI/ML.
-
-And eventually, the idea of building something bigger than individual freelance projects led me to **NetQuoraX**.
-
-Today, I'm interested in building at the intersection of:
-
-> **AI × Software × Automation × Games × Entrepreneurship**
-
-I enjoy the entire process — not just writing the final code.
-
-**Finding the problem → designing the system → building the prototype → breaking it → fixing it → deploying it → improving it.**
+<!--
+  🎬 WANT YOUR OWN CLIP HERE INSTEAD?
+  GitHub blocks real YouTube <iframe> embeds — they simply won't render.
+  To swap the gif above for YOUR actual footage, autoplaying inline (muted + looping, exactly like a GIF):
+    1. Trim the clip you want (5–15 sec loops work best as a banner).
+    2. Save as .mp4 (sharper & smaller than .gif for this).
+    3. Open any issue on github.com/Sathveek123/Sathveek123 → drag the mp4 into the comment box.
+    4. GitHub returns a link like https://github.com/user-attachments/assets/xxxxxxxx-xxxx...
+    5. Replace the <img> above with:
+       <video src="YOUR_LINK_HERE" autoplay loop muted playsinline width="55%"></video>
+-->
 
 ---
 
-# 🧭 My Journey
+### 💫 About Me
+
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
+
+I'm **Sathveek Nalla**, a final-year **Artificial Intelligence & Machine Learning** student at **GMRIT** — but honestly, most of what I know didn't come from a classroom. It came from shipping things, breaking them, and fixing them again at odd hours.
+
+My story didn't start with "hello world." It started with **selling e-books online** — no code, just a hustle to understand how people buy, what makes them trust a seller, and how to actually run something end-to-end. That business instinct is still the lens I build software through today.
+
+From there:
+
+- I taught myself to code because I wanted to *build* the tools I was using, not just use them
+- Freelancing came next — real clients, real deadlines, real feedback (sometimes brutal, always useful)
+- I built trading bots and automation scripts, which pulled me deep into APIs and systems thinking
+- I picked up **Unity & C#** because I wanted to understand what happens on the *other* side of the games I grew up playing
+- Eventually I stopped freelancing solo and turned it into something bigger — **NetQuoraX**, my own digital solutions agency
+
+Today I move between four worlds — **AI, full-stack web, automation, and game development** — and I like it that way. Cross-pollination between them is where my best ideas come from.
+
+I don't build projects just to have another repo sitting there. I build things that are actually *used* — by a client, by a player, by someone trying to solve a real problem.
+
+```
+Idea → Prototype → Build → Break → Fix → Ship → Repeat
+```
+
+**Currently focused on:**
+- 🧠 Artificial Intelligence & Generative AI
+- 🌐 Full-Stack Web Development
+- 🤖 Automation, Bots & API Integrations
+- 🎮 Game Development (Unity / C#)
+- 📈 Trading Systems & Strategy Automation
+- 🏢 Building digital products through **NetQuoraX**
+- 💼 Freelancing & Paid Client Delivery
+
+<br clear="right"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a12,50:b5651d,100:1a1423&height=3&section=header" width="100%">
+</div>
+
+### 🕰️ My Journey So Far
+
+```
+📚 School → curious about how things work under the hood
+   ↓
+📖 Started selling e-books online → first taste of business & customers
+   ↓
+💻 Taught myself to code → HTML/CSS/JS, then full-stack
+   ↓
+🧾 First freelance gig → got paid to build a website, got hooked
+   ↓
+🤖 Built my first trading bot → fell into automation & APIs
+   ↓
+🎮 Picked up Unity → started building games on the side
+   ↓
+🎓 Joined GMRIT for AI & ML → academics + real projects, side by side
+   ↓
+🏢 Founded NetQuoraX → turned freelancing into an actual agency
+   ↓
+🚀 Now → shipping AI, web, automation & game projects in parallel
+```
+
+> *"Every project has taught me something different — from handling clients and deadlines to debugging production systems at 2 AM. And yes, 2 AM bugs are somehow always different."*
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1423,50:b5651d,100:2a1a12&height=3&section=header" width="100%">
+</div>
+
+### ⚙️ How I Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧠 Think in systems**
+I don't just write code for a feature — I think about how it connects to everything around it: the API, the database, the user, the business.
+
+**🔁 Ship, then iterate**
+I'd rather have something real in front of users fast, then improve it, than perfect something no one's touched yet.
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 Solve, don't decorate**
+If a project doesn't solve a real problem for a real person, it doesn't make the cut for me.
+
+**🤝 Client-first freelancing**
+Years of paid client work taught me deadlines, scope, and communication — not just code.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
+</div>
+
+---
+
+### 🧩 What I Build
 
 <div align="center">
 
-```text
-                    THE JOURNEY
-
-       💡 Curiosity
-            │
-            ▼
-       📚 Learning
-            │
-            ▼
-       💰 E-Commerce
-       Digital Products
-            │
-            ▼
-       💻 Freelancing
-       Client Projects
-            │
-            ▼
-       🌐 Web Development
-            │
-            ▼
-       🤖 Bots & Automation
-            │
-            ▼
-       🔌 APIs & Backend Systems
-            │
-            ▼
-       🎮 Game Development
-            │
-            ▼
-       🧠 AI / Machine Learning
-            │
-            ▼
-       ☁️ Cloud & Deployment
-            │
-            ▼
-       🏢 NetQuoraX
-            │
-            ▼
-       🚀 PRODUCT BUILDING
-```
+| 🧠 AI & Automation | 🌐 Web & SaaS | 🎮 Interactive |
+|---|---|---|
+| AI Applications | Full-Stack Apps | Unity Games |
+| Trading Bots | SaaS Platforms | Browser Games |
+| Telegram Bots | Dashboards | Gameplay Systems |
+| API Integrations | Business Tools | Interactive Experiences |
 
 </div>
 
-### The important part?
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a12,50:b5651d,100:1a1423&height=3&section=header" width="100%">
+</div>
 
-Every stage came from **building something**, not just watching tutorials.
-
-E-commerce taught me **business**.
-
-Freelancing taught me **clients, deadlines and responsibility**.
-
-Web development taught me **how products are structured**.
-
-Automation taught me **how systems can work without constant human effort**.
-
-Game development taught me **interaction, performance and systems thinking**.
-
-AI/ML taught me **how software can become intelligent**.
-
-And building NetQuoraX is teaching me how to bring all of those things together.
-
----
-
-# ⚙️ How I Work
-
-I usually don't start with:
-
-> *"Which framework should I use?"*
-
-I start with:
-
-> **"What are we actually trying to solve?"**
-
-My workflow normally looks something like this:
-
-```text
-┌─────────────────────┐
-│     01. PROBLEM     │
-│ Understand the need │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    02. BREAK IT     │
-│ Divide into systems │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   03. ARCHITECT     │
-│ UI • API • DB • AI  │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    04. PROTOTYPE    │
-│ Build the first     │
-│ working version     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│      05. TEST       │
-│ Break it. Debug it. │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│      06. SHIP       │
-│ Deploy & release    │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│     07. ITERATE     │
-│ Improve from usage  │
-└─────────────────────┘
-```
-
-### 🧠 My rule
-
-**I would rather build a working version today and improve it tomorrow than spend three weeks designing something nobody has used.**
-
-But that doesn't mean rushing blindly.
-
-I care about:
-
-* Clean architecture
-* Useful UX
-* Maintainable code
-* Security
-* Scalability
-* Performance
-* Real-world requirements
-* The actual person using the product
-
----
-
-# 🔨 What I Build
-
-I usually work across five major areas.
-
-### 🧠 AI & Intelligent Systems
-
-AI-powered applications, experimentation with Generative AI, computer vision, recommendation systems and intelligent workflows.
-
-### 🌐 Web & SaaS
-
-Full-stack applications, dashboards, business platforms, academic systems and custom client software.
-
-### 🤖 Automation
-
-Bots, scheduled systems, API integrations, workflow automation and tools that remove repetitive work.
-
-### 🎮 Games
-
-Unity prototypes, gameplay systems, browser games and multiplayer experiences.
-
-### 💼 Products & Business Software
-
-Instead of only building demos, I like creating software around an actual business use case.
-
----
-
-# 🎯 What Happens While I'm Building?
-
-This is probably the most accurate description of my development environment:
-
-```text
-          IDEA
-           │
-           ▼
-      "This should
-       be simple."
-           │
-           ▼
-       BUILDING
-           │
-           ▼
-      First Error 💀
-           │
-           ▼
-       DEBUGGING
-           │
-           ▼
-      Second Error 💀💀
-           │
-           ▼
-       RESEARCH
-           │
-           ▼
-       "OH... I SEE."
-           │
-           ▼
-         FIXED
-           │
-           ▼
-       DEPLOYMENT
-           │
-           ▼
-      "Why is prod
-        doing this?"
-           │
-           ▼
-        FIX AGAIN
-           │
-           ▼
-        🚀 SHIPPED
-```
-
-Coffee/chai somewhere nearby is usually part of the architecture.
-
----
-
-# 🏢 NetQuoraX
-
-## Digital Solutions. Built Around Real Problems.
-
-**NetQuoraX** is the digital IT solutions agency I'm building to help businesses turn ideas, requirements and problems into practical software.
-
-It's not meant to be another agency that simply says:
-
-> *"We build websites."*
-
-The goal is to bring together the areas I actually enjoy working in:
-
-```text
-WEB DEVELOPMENT
-       +
-UI / UX
-       +
-AI INTEGRATION
-       +
-AUTOMATION
-       +
-BOTS & APIs
-       +
-CLOUD & DEVOPS
-       +
-MOBILE APPLICATIONS
-       +
-CYBERSECURITY
-       +
-TRADING TECHNOLOGY
-       +
-MAINTENANCE
-```
-
-### What NetQuoraX focuses on
-
-* 🌐 Custom Web Applications
-* 🎨 UI/UX & Product Interfaces
-* 🤖 AI Integration
-* ⚙️ Automation & Bots
-* 🔌 API Development & Integration
-* ☁️ Cloud & DevOps
-* 📱 Mobile Applications
-* 🔐 Cybersecurity Solutions
-* 📈 Trading Technology
-* 🛠️ Optimization & Maintenance
+### 🎧 While I Build
 
 <div align="center">
 
-<a href="https://net-quora-x-agency.vercel.app/">
-<img src="https://img.shields.io/badge/EXPLORE%20NETQUORAX-8B5CF6?style=for-the-badge&logo=rocket&logoColor=white"/>
-</a>
+Coffee (or chai) on one side, a playlist on loop, three tabs of Stack Overflow — that's the usual setup.
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
 
 </div>
 
 ---
 
-# 🛠️ Tech Arsenal
+### 🚀 Featured Projects
 
-I don't claim to be an expert in every technology below.
+**🐍 ViperFlux.io** — *Multiplayer browser-based snake experience*
+Competitive multiplayer game built around fast gameplay, progression, and a polished modern UI.
+`Phaser` `JavaScript` `Node.js` `Multiplayer Architecture`
 
-Some are production tools I use regularly.
-
-Some are technologies I've worked with.
-
-Others are technologies I'm actively learning.
-
-That's intentional.
-
-### 💻 Languages
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,javascript,typescript,dart,php,bash"/>
-</p>
-
-### 🌐 Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,angular,threejs"/>
-</p>
-
-### ⚙️ Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis,firebase,prisma"/>
-</p>
-
-### ☁️ Cloud & Infrastructure
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,cloudflare"/>
-</p>
-
-### 🚀 Deployment
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase"/>
-</p>
-
-### 🔧 Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,npm,webpack"/>
-</p>
-
----
-
-# 🎮 Game Dev Corner
-
-Game development is one of the areas where I get to combine **engineering + creativity**.
-
-I've worked with **Unity and C#**, building gameplay prototypes and experimenting with:
-
-* 🎮 Gameplay systems
-* 🧠 NPC waypoint behaviour
-* 🔫 FPS prototypes
-* 🏎️ Vehicle systems
-* 🌎 3D environments
-* 🕹️ 2D gameplay
-* 🎨 Game UI
-* ⚡ Performance
-* 🌐 Browser multiplayer
-
-### 🐍 ViperFlux.io
-
-One of my major game projects is **ViperFlux.io** — a multiplayer browser-based snake game.
-
-The interesting part isn't simply making a snake move.
-
-It's everything around it:
-
-```text
-PLAYER
-  │
-  ├── INPUT
-  │
-  ├── MOVEMENT
-  │
-  ├── COLLISION
-  │
-  ├── GAME STATE
-  │
-  ├── MULTIPLAYER
-  │
-  ├── PROGRESSION
-  │
-  ├── SKINS
-  │
-  └── UI / UX
-```
-
-That's what makes game development fun for me.
-
-**A game is basically a giant system disguised as something fun.**
-
----
-
-# 🤖 AI • Automation • APIs
-
-This is one of my favourite areas because I enjoy making different systems **talk to each other**.
-
-I've worked with concepts around:
-
-* Generative AI
-* AI APIs
-* REST APIs
-* Telegram Bots
-* Workflow Automation
-* n8n
-* Data Processing
-* Trading Automation
-* Technical Analysis
-* API-driven systems
-* Scheduled workflows
-
-### My mental model
-
-```text
-                  USER
-                   │
-                   ▼
-              WEB / APP
-                   │
-                   ▼
-             API / BACKEND
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-         AI              DATABASE
-          │                 │
-          └────────┬────────┘
-                   ▼
-               AUTOMATION
-                   │
-                   ▼
-              RESULT / ACTION
-```
-
-The goal isn't:
-
-**"Let's add AI because AI is cool."**
-
-The goal is:
-
-**"Can intelligence or automation make this system better?"**
-
-If yes → use it.
-
-If no → don't force it.
-
----
-
-# ☁️ Cloud Journey
-
-My cloud journey started with learning how applications actually move beyond localhost.
-
-I've worked with and explored:
-
-```text
-AWS
-├── EC2
-├── S3
-├── VPC
-├── IAM
-└── RDS
-
-Databases
-└── PostgreSQL
-
-Deployment
-├── Vercel
-├── Render
-├── Netlify
-└── Firebase
-
-Infrastructure
-├── Docker
-├── Cloudflare
-└── GitHub Actions
-```
-
-I'm currently focused on understanding **how to build applications that are not only functional, but deployable, maintainable and scalable.**
-
----
-
-# 🚀 Projects I'm Proud Of
-
-### 🐍 ViperFlux.io
-
-**Multiplayer browser game**
-
-`Phaser` `JavaScript` `Node.js`
-
----
-
-### ⚔️ PlayCombatZone
-
-**Competitive gaming tournament platform**
-
+**⚔️ PlayCombatZone** — *Mini Militia Tournament Platform*
+Tournament ecosystem with player management, role-based admin, event scheduling, and judge systems.
 `React` `Node.js` `MongoDB` `Firebase`
 
----
+**💹 SignalFlow / SignalGlow** — *AI-assisted trading technology*
+Automated market analysis, signal generation, dashboards, and trading workflows.
+`Python` `APIs` `Technical Analysis` `Telegram` `Cloud`
 
-### 💹 SignalFlow / SignalGlow
+**🍽️ Flavora Kitchen** — *Modern food discovery & planning platform*
+Restaurant discovery, social food feed, and personalized meal planning.
+`React Native` `Firebase` `JavaScript`
 
-**Trading technology & automation ecosystem**
-
-`Python` `APIs` `Automation` `Technical Analysis`
-
----
-
-### 🍽️ Flavora Kitchen
-
-**Food discovery & planning platform**
-
-`React Native` `Firebase`
-
----
-
-### 🎓 WebSaga
-
-**Academic ERP & intelligent education platform**
-
+**🎓 WebSaga** — *Academic ERP & intelligent education platform*
+Role-based academic management with automated question paper generation using Bloom's Taxonomy.
 `Next.js` `React` `Tailwind` `Firebase`
 
----
-
-### 🕺 MudraVerse
-
-**AI-powered classical dance gesture recognition**
-
+**🕺 MudraVerse** — *AI-powered Bharatanatyam Mudra Recognition*
+Computer vision project recognizing classical dance hand gestures.
 `Python` `Computer Vision` `MediaPipe` `CNN`
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1423,50:b5651d,100:2a1a12&height=3&section=header" width="100%">
+</div>
+
+### 🏢 NetQuoraX — *Digital solutions, built for real businesses*
+
+I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas into working software.
+
+`Web Development` · `UI/UX Design` · `AI Integration` · `Automation & Bots` · `Cloud & DevOps` · `Mobile Apps` · `Cybersecurity` · `Trading Solutions`
+
+<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/Visit%20NetQuoraX-B5651D?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+
 ---
 
-# 📊 GitHub
+### 🛠️ Tech Arsenal
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
+</div>
+
+<div align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="80%"/>
+</div>
+
+**Languages**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,php,bash"/>
+
+**Frontend**
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,threejs"/>
+
+**Backend & Databases**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase,redis,sqlite"/>
+
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,githubactions"/>
+
+**Game Dev**
+<img src="https://skillicons.dev/icons?i=unity"/>
+
+**Tools**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a12,50:b5651d,100:1a1423&height=3&section=header" width="100%">
+</div>
+
+### 🎮 Game Dev Corner
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="90"/>
+</div>
+
+I don't just play games — I like building the systems behind them.
+
+`Unity` · `C#` · `3D Environments` · `FPS Prototypes` · `Vehicle Systems` · `NPC Waypoint AI` · `2D Gameplay` · `Browser Multiplayer` · `Phaser`
+
+My biggest gaming project right now is **ViperFlux.io** — a full multiplayer browser game built from scratch.
+
+---
+
+### 🤖 AI • Automation • APIs
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="90"/>
+</div>
+
+I like connecting systems together and making them talk to each other automatically.
+
+```
+   USER
+     │
+     ▼
+  WEB / APP
+     │
+     ▼
+ API / BACKEND
+     │
+   ┌─┴─┐
+   ▼   ▼
+  AI   DATABASE
+   │   │
+   └─┬─┘
+     ▼
+ AUTOMATION
+```
+
+`Generative AI` · `REST APIs` · `Telegram Bots` · `n8n Workflows` · `Data Processing` · `Technical Analysis Systems` · `Cloud Deployments`
+
+---
+
+### ☁️ Cloud Journey
+
+Currently deepening my cloud engineering skills across:
+
+`AWS EC2` · `S3` · `VPC` · `IAM` · `RDS` · `PostgreSQL` · `Vercel` · `Render` · `Netlify` · `Firebase` · `Cloudflare`
+
+---
+
+### 📊 GitHub Performance
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Sathveek123&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathveek123&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="41%"/>
 
-<br/><br/>
+<br/>
 
 <img src="https://streak-stats.demolab.com?user=Sathveek123&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
----
-
-# 🐍 GitHub Contribution Journey
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sathveek123/Sathveek123/output/github-contribution-grid-snake.svg" width="85%" alt="GitHub contribution snake"/>
+#### 🐍 Contribution Snake
 
-<br/>
+<img src="https://raw.githubusercontent.com/Sathveek123/Sathveek123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="80%"/>
 
-<sub>
-Every contribution is basically another little receipt that says:
-<strong>I built something today.</strong>
-</sub>
+<sub>if this doesn't show up, you need to set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on this repo first</sub>
 
 </div>
 
 ---
 
-# 🧠 My Development Philosophy
+### 📈 Currently Learning
 
-I don't believe good developers are people who know every framework.
+```
+Artificial Intelligence → Generative AI → Cloud Architecture
+       → DevOps → Scalable Backend Systems → Product Engineering
+```
 
-I think good developers are people who can **figure things out**.
+Especially interested in the intersection of:
 
-```javascript
-const mindset = {
-    curiosity: true,
-    consistency: true,
-    ego: false,
+**`AI × Software × Automation × Games × Entrepreneurship`**
 
-    principles: [
-        "Understand the problem first",
+---
+
+### 🧠 Philosophy
+
+```js
+const developer = {
+    name: "Sathveek Nalla",
+    mindset: [
         "Build before overthinking",
         "Learn by doing",
-        "Keep the code understandable",
         "Solve real problems",
-        "Ship useful things",
-        "Accept failure as feedback",
-        "Keep improving"
-    ]
+        "Ship useful products",
+        "Keep improving",
+    ],
+    currentMission: "Turn ideas into products people can actually use.",
 };
 
-function build() {
+while (developer) {
     learn();
-    experiment();
-    breakSomething();
-    debug();
-    understand();
+    build();
+    breakThings();
+    fixThem();
     ship();
 }
-
-while (alive) {
-    build();
-}
 ```
-
-### The principle I keep coming back to:
-
-> **Don't chase technology. Chase problems worth solving.**
-
-Technology changes.
-
-Frameworks change.
-
-AI models change.
-
-The ability to **learn, adapt and build** is what stays.
 
 ---
 
-# 🌱 Currently Learning
+### 🤝 Let's Build Something
 
-```text
-Artificial Intelligence
-        ↓
-Generative AI
-        ↓
-AI-powered Applications
-        ↓
-Cloud Architecture
-        ↓
-DevOps
-        ↓
-Scalable Backend Systems
-        ↓
-Product Engineering
-```
+Open to: **Freelance projects** · **Collaborations** · **Startup ideas** · **AI projects** · **Game dev** · **Automation systems**
 
-I'm especially interested in the intersection of:
-
-### `AI × Software × Automation × Games × Entrepreneurship`
-
----
-
-# 🤝 Let's Build Something
-
-If you're working on something interesting, feel free to reach out.
-
-I'm especially interested in:
-
-* 🚀 Startup ideas
-* 🤖 AI products
-* 🌐 Web & SaaS
-* 🎮 Game development
-* ⚙️ Automation
-* 🔌 API-driven products
-* ☁️ Cloud projects
-* 💼 Freelance opportunities
-* 🤝 Collaborations
-
-Maybe it's a small idea.
-
-Maybe it's a crazy one.
-
-Maybe it's a project that currently exists as nothing more than a messy Figma file and a 2 AM idea.
-
-**That's usually how interesting things start.**
+I read every message that lands in my inbox — whether it's a client brief, a collab idea, or just someone who wants to talk shop about AI or game dev.
 
 <div align="center">
 
-### BUILD → BREAK → LEARN → SHIP → REPEAT
-
-<br/>
-
-<a href="https://sathveek-official-resume.vercel.app/">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/">
-<img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+| | |
+|---|---|
+| 🎓 **Studying** | AI & Machine Learning, GMRIT |
+| 🏢 **Founder** | NetQuoraX |
+| 💼 **Open to** | Freelance & Full-time opportunities |
+| 📍 **Based in** | India |
+| ⚡ **Fun fact** | I've shipped more side projects than semesters completed |
 
 </div>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<!--                         HIRE ME BANNER                                 -->
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,35:21153a,70:4c2882,100:8B5CF6&height=180&section=footer&text=LET'S%20BUILD%20SOMETHING&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
-
-<br/>
-
-# 💼 HIRE ME
-
-### Looking for a developer who doesn't just write code — but builds the system around the idea?
-
-**I'm open to freelance projects, collaborations, internships and full-time opportunities.**
-
-<br/>
-
-<a href="https://sathveek-official-resume.vercel.app/">
-<img src="https://img.shields.io/badge/📄%20VIEW%20MY%20RESUME-8B5CF6?style=for-the-badge"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL_HERE">
-<img src="https://img.shields.io/badge/✉️%20HIRE%20ME-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/">
-<img src="https://img.shields.io/badge/🤝%20LET'S%20CONNECT-0A66C2?style=for-the-badge"/>
-</a>
+<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-Explore-B5651D?style=for-the-badge&logo=rocket"/></a>
 
 <br/><br/>
 
-### **Have an idea? Let's turn it into something real. 🚀**
+⚡ **BUILD. BREAK. LEARN. SHIP. REPEAT.**
 
-<br/>
+<sub>thanks for scrolling all the way down — grab a coffee, let's build something ☕</sub>
 
-<sub>
-© Sathveek Nalla · Built with curiosity, caffeine & way too many tabs.
-</sub>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="150"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1a12,35:b5651d,70:5c3a21,100:1a1423&height=140&section=footer"/>
 
 </div>
