@@ -91,27 +91,42 @@ Idea → Prototype → Build → Break → Fix → Ship → Repeat
 
 ### 🕰️ My Journey So Far
 
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
+
+Nothing about this path was planned out on a whiteboard. It happened one messy, curious step at a time.
+
 ```
-📚 School → curious about how things work under the hood
-   ↓
-📖 Started selling e-books online → first taste of business & customers
-   ↓
-💻 Taught myself to code → HTML/CSS/JS, then full-stack
-   ↓
-🧾 First freelance gig → got paid to build a website, got hooked
-   ↓
-🤖 Built my first trading bot → fell into automation & APIs
-   ↓
-🎮 Picked up Unity → started building games on the side
-   ↓
-🎓 Joined GMRIT for AI & ML → academics + real projects, side by side
-   ↓
-🏢 Founded NetQuoraX → turned freelancing into an actual agency
-   ↓
-🚀 Now → shipping AI, web, automation & game projects in parallel
+📚 School
+   → curious about how things actually work under the hood
+        ↓
+📖 Selling e-books online
+   → first taste of business, pricing, and dealing with real customers
+        ↓
+💻 Taught myself to code
+   → HTML/CSS/JS first, then pushed into full-stack territory
+        ↓
+🧾 First freelance gig
+   → got paid to build a website — and got hooked instantly
+        ↓
+🤖 Built my first trading bot
+   → fell head-first into automation, APIs, and market data
+        ↓
+🎮 Picked up Unity
+   → started building games on the side, purely for the love of it
+        ↓
+🎓 Joined GMRIT — AI & ML
+   → academics and real-world projects running side by side
+        ↓
+🏢 Founded NetQuoraX
+   → turned solo freelancing into an actual agency with real clients
+        ↓
+🚀 Right now
+   → shipping AI, web, automation & game projects in parallel
 ```
 
 > *"Every project has taught me something different — from handling clients and deadlines to debugging production systems at 2 AM. And yes, 2 AM bugs are somehow always different."*
+
+<br clear="right"/>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1423,50:b5651d,100:2a1a12&height=3&section=header" width="100%">
@@ -119,24 +134,34 @@ Idea → Prototype → Build → Break → Fix → Ship → Repeat
 
 ### ⚙️ How I Work
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"/>
+</div>
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧠 Think in systems**
-I don't just write code for a feature — I think about how it connects to everything around it: the API, the database, the user, the business.
+**🧠 Think in systems, not just features**
+Before I write a line of code, I map out how a feature touches everything around it — the API contract, the database shape, the user's actual flow, and how it affects the business logic elsewhere. Bugs are usually system problems wearing a feature-shaped disguise.
 
-**🔁 Ship, then iterate**
-I'd rather have something real in front of users fast, then improve it, than perfect something no one's touched yet.
+**🔁 Ship fast, then iterate**
+I'd rather have a real, imperfect version in front of real users this week than a polished version nobody's touched in three months. Feedback from actual use beats guessing every time.
+
+**🧪 Break it before someone else does**
+I stress-test my own assumptions — edge cases, bad inputs, weird user behavior — because I'd rather find the crack in my own build than have a client or a player find it first.
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 Solve, don't decorate**
-If a project doesn't solve a real problem for a real person, it doesn't make the cut for me.
+If a project doesn't solve a real, specific problem for a real person, it doesn't make the cut. I'm not interested in building things just to have a shinier portfolio.
 
-**🤝 Client-first freelancing**
-Years of paid client work taught me deadlines, scope, and communication — not just code.
+**🤝 Client-first freelancing habits**
+Years of paid client work taught me the unglamorous skills that actually matter: scoping honestly, communicating early when something's off, and hitting deadlines even when the code fights back.
+
+**📈 Document as I build**
+Whether it's a README, a comment, or a quick Loom, future-me (and whoever inherits the codebase) deserves to know *why* a decision was made, not just *what* the code does.
 
 </td>
 </tr>
@@ -150,14 +175,16 @@ Years of paid client work taught me deadlines, scope, and communication — not 
 
 ### 🧩 What I Build
 
+I split my work across three lanes — they overlap more than you'd think.
+
 <div align="center">
 
 | 🧠 AI & Automation | 🌐 Web & SaaS | 🎮 Interactive |
 |---|---|---|
-| AI Applications | Full-Stack Apps | Unity Games |
-| Trading Bots | SaaS Platforms | Browser Games |
-| Telegram Bots | Dashboards | Gameplay Systems |
-| API Integrations | Business Tools | Interactive Experiences |
+| AI-powered applications | Full-stack web apps | Unity games |
+| Trading bots & signal systems | SaaS platforms & dashboards | Browser-based multiplayer games |
+| Telegram bots | Business & client tools | Gameplay systems & mechanics |
+| API integrations & workflows | Academic & ERP platforms | Interactive experiences & prototypes |
 
 </div>
 
@@ -169,9 +196,11 @@ Years of paid client work taught me deadlines, scope, and communication — not 
 
 <div align="center">
 
-Coffee (or chai) on one side, a playlist on loop, three tabs of Stack Overflow — that's the usual setup.
+Coffee (or chai) on one side, a playlist on loop, three tabs of Stack Overflow open, and a terminal that's seen things. That's the usual setup when I'm deep in a build.
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
+
+*"It works" → commits it → immediately breaks something unrelated → questions every life choice → fixes it anyway.*
 
 </div>
 
@@ -209,11 +238,28 @@ Computer vision project recognizing classical dance hand gestures.
 
 ### 🏢 NetQuoraX — *Digital solutions, built for real businesses*
 
-I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas into working software.
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
-`Web Development` · `UI/UX Design` · `AI Integration` · `Automation & Bots` · `Cloud & DevOps` · `Mobile Apps` · `Cybersecurity` · `Trading Solutions`
+**NetQuoraX** started as an answer to a problem I kept seeing while freelancing solo: small businesses need more than "a website" — they need a system that actually runs their operations. So I turned freelancing into an agency built to deliver exactly that.
 
+We take an idea from a business owner and turn it into working software — not a mockup, not a slide deck, an actual product they can run their day-to-day on.
+
+**What we deliver:**
+- `Web Development` — from landing pages to full platforms
+- `UI/UX Design` — interfaces people actually enjoy using
+- `AI Integration` — practical AI features, not gimmicks
+- `Automation & Bots` — cutting out repetitive manual work
+- `Cloud & DevOps` — deployments that don't fall over under load
+- `Mobile Applications` — cross-platform, built to scale
+- `Cybersecurity` — baked in, not bolted on afterward
+- `Trading Solutions` — for clients who need market-facing tools
+- `Maintenance & Optimization` — because shipping isn't the finish line
+
+<br clear="right"/>
+
+<div align="center">
 <a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/Visit%20NetQuoraX-B5651D?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+</div>
 
 ---
 
@@ -223,9 +269,7 @@ I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="80%"/>
-</div>
+I pick tools based on what the project actually needs, not what's trendy — though I'll admit I enjoy trying the trendy ones too.
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,php,bash"/>
@@ -242,8 +286,12 @@ I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas
 **Game Dev**
 <img src="https://skillicons.dev/icons?i=unity"/>
 
-**Tools**
+**Tools & Workflow**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
+
+<div align="center">
+<sub>The stack changes project to project — the standard doesn't: clean, maintainable, and shippable.</sub>
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a12,50:b5651d,100:1a1423&height=3&section=header" width="100%">
@@ -251,15 +299,24 @@ I'm building **NetQuoraX**, an IT solutions agency helping businesses turn ideas
 
 ### 🎮 Game Dev Corner
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="90"/>
-</div>
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-I don't just play games — I like building the systems behind them.
+I don't just play games — I like reverse-engineering *why* they feel the way they feel, then building the systems that make that happen.
 
-`Unity` · `C#` · `3D Environments` · `FPS Prototypes` · `Vehicle Systems` · `NPC Waypoint AI` · `2D Gameplay` · `Browser Multiplayer` · `Phaser`
+In Unity, I've experimented with:
 
-My biggest gaming project right now is **ViperFlux.io** — a full multiplayer browser game built from scratch.
+- 🔫 **FPS prototypes** — shooting mechanics, hit detection, weapon feel
+- 🏎️ **Vehicle systems** — physics-based handling and controls
+- 🧠 **NPC waypoint AI** — enemies and characters that navigate intelligently
+- 🌎 **3D environments** — level design and world-building basics
+- 🕹️ **2D gameplay systems** — tighter, more arcade-style mechanics
+- 🌐 **Browser multiplayer** — real-time gameplay over the network with Phaser
+
+My biggest gaming project right now is **ViperFlux.io** — a full multiplayer browser-based snake game built from the ground up, covering everything from real-time sync to progression and skins.
+
+`Unity` · `C#` · `Phaser` · `JavaScript` · `Multiplayer Architecture`
+
+<br clear="right"/>
 
 ---
 
@@ -269,7 +326,7 @@ My biggest gaming project right now is **ViperFlux.io** — a full multiplayer b
 <img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="90"/>
 </div>
 
-I like connecting systems together and making them talk to each other automatically.
+I like making systems talk to each other so a human doesn't have to babysit the repetitive parts.
 
 ```
    USER
@@ -289,15 +346,36 @@ I like connecting systems together and making them talk to each other automatica
  AUTOMATION
 ```
 
-`Generative AI` · `REST APIs` · `Telegram Bots` · `n8n Workflows` · `Data Processing` · `Technical Analysis Systems` · `Cloud Deployments`
+**Where this shows up in my projects:**
+- 🧠 Generative AI features embedded directly into products (not bolted on as a chatbot afterthought)
+- 🔗 REST API design & integration across third-party services
+- 🤖 Telegram bots for notifications, trading signals, and workflows
+- ⚙️ Workflow automation with tools like **n8n**
+- 📊 Technical analysis pipelines for trading systems
+- 🧹 Data processing pipelines that clean and structure messy real-world data
+- ☁️ Cloud deployment of AI/automation services so they run reliably, unattended
+
+`Generative AI` · `REST APIs` · `Telegram Bots` · `n8n` · `Data Processing` · `Technical Analysis` · `Cloud Deployments`
 
 ---
 
 ### ☁️ Cloud Journey
 
-Currently deepening my cloud engineering skills across:
+<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
 
-`AWS EC2` · `S3` · `VPC` · `IAM` · `RDS` · `PostgreSQL` · `Vercel` · `Render` · `Netlify` · `Firebase` · `Cloudflare`
+Cloud is the part of the stack I'm most actively leveling up right now — because a great app that can't scale or survive a traffic spike isn't actually finished.
+
+Hands-on with:
+
+`AWS EC2` · `S3` · `VPC` · `IAM` · `RDS` · `PostgreSQL`
+
+Deploying regularly through:
+
+`Vercel` · `Render` · `Netlify` · `Firebase` · `Cloudflare`
+
+The goal isn't collecting certifications — it's being able to take something from *"works on my machine"* to *"works reliably for real users, at real scale."*
+
+<br clear="left"/>
 
 ---
 
@@ -320,7 +398,7 @@ Currently deepening my cloud engineering skills across:
 
 <img src="https://raw.githubusercontent.com/Sathveek123/Sathveek123/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="80%"/>
 
-<sub>if this doesn't show up, you need to set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on this repo first</sub>
+<sub>if this doesn't show up, set up the <a href="https://github.com/Platane/snk">snk GitHub Action</a> on this repo first</sub>
 
 </div>
 
@@ -341,9 +419,14 @@ Especially interested in the intersection of:
 
 ### 🧠 Philosophy
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
+</div>
+
 ```js
 const developer = {
     name: "Sathveek Nalla",
+    role: ["Developer", "Freelancer", "Founder", "AI/ML Student"],
     mindset: [
         "Build before overthinking",
         "Learn by doing",
@@ -354,14 +437,17 @@ const developer = {
     currentMission: "Turn ideas into products people can actually use.",
 };
 
-while (developer) {
+while (developer.isAlive) {
     learn();
     build();
     breakThings();
     fixThem();
     ship();
+    repeat();
 }
 ```
+
+> Progress over perfection. Every shipped project — however small — beats a perfect idea still sitting in a notes app.
 
 ---
 
@@ -399,5 +485,18 @@ I read every message that lands in my inbox — whether it's a client brief, a c
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="150"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1a12,35:b5651d,70:5c3a21,100:1a1423&height=140&section=footer"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:b5651d,50:e8a855,100:b5651d&height=100&section=header&text=Open%20To%20Work%20%E2%80%94%20Let's%20Talk&fontSize=28&fontColor=1a1423&fontAlignY=55" width="100%"/>
+
+**Looking for a developer who can handle web, AI, automation, or game dev — and actually ships?**
+Freelance gigs, full-time roles, and interesting collaborations are all welcome.
+
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-B5651D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/View%20Resume-1a1423?style=for-the-badge&logo=readthedocs&logoColor=E8A855"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
