@@ -10,13 +10,13 @@
 <br/>
 
 <a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2a1a12?style=for-the-badge&logo=vercel&logoColor=ffcf99"/></a>
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-B5651D?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-2a1a12?style=for-the-badge&logo=linkedin&logoColor=E8A855"/></a>
+<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-2a1a12?style=for-the-badge&logo=rocket&logoColor=E8A855"/></a>
+<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-2a1a12?style=for-the-badge&logo=github&logoColor=E8A855"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Sathveek123&label=Profile%20Views&color=B5651D&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Sathveek123&label=Profile%20Views&color=b5651d&style=for-the-badge"/>
 
 </div>
 
@@ -48,11 +48,44 @@
        <video src="YOUR_LINK_HERE" autoplay loop muted playsinline width="55%"></video>
 -->
 
+<div align="center">
+
+### 📑 Quick Navigation
+
+[About Me](#-about-me) ·
+[Journey](#️-my-journey-so-far) ·
+[How I Work](#️-how-i-work) ·
+[What I Build](#-what-i-build) ·
+[Projects](#-featured-projects) ·
+[NetQuoraX](#-netquorax--digital-solutions-built-for-real-businesses) ·
+[Tech Arsenal](#️-tech-arsenal) ·
+[Game Dev](#-game-dev-corner) ·
+[AI & Automation](#-ai--automation--apis) ·
+[Cloud](#️-cloud-journey) ·
+[GitHub Stats](#-github-performance) ·
+[Let's Talk](#-lets-build-something)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1423,50:b5651d,100:2a1a12&height=2&section=header" width="100%">
+</div>
+
+<div align="center">
+
+### 📌 At a Glance
+
+| | | | |
+|:---:|:---:|:---:|:---:|
+| 🎓 **AI/ML Student**<br/>Final Year, GMRIT | 🏢 **Founder**<br/>NetQuoraX | 💼 **6+ Projects**<br/>Shipped end-to-end | 🌍 **Freelance & Full-Time**<br/>Open to both |
+
+</div>
+
 ---
 
 ### 💫 About Me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284119-fbfd994d-8c2a-4a07-a75f-84e513833c1c.gif">
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 I'm **Sathveek Nalla**, a final-year **Artificial Intelligence & Machine Learning** student at **GMRIT** — but honestly, most of what I know didn't come from a classroom. It came from shipping things, breaking them, and fixing them again at odd hours.
 
@@ -135,7 +168,7 @@ Nothing about this path was planned out on a whiteboard. It happened one messy, 
 ### ⚙️ How I Work
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
 </div>
 
 <table>
@@ -238,7 +271,7 @@ Computer vision project recognizing classical dance hand gestures.
 
 ### 🏢 NetQuoraX — *Digital solutions, built for real businesses*
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
 **NetQuoraX** started as an answer to a problem I kept seeing while freelancing solo: small businesses need more than "a website" — they need a system that actually runs their operations. So I turned freelancing into an agency built to deliver exactly that.
 
@@ -361,7 +394,7 @@ I like making systems talk to each other so a human doesn't have to babysit the 
 
 ### ☁️ Cloud Journey
 
-<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
+<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
 Cloud is the part of the stack I'm most actively leveling up right now — because a great app that can't scale or survive a traffic spike isn't actually finished.
 
@@ -471,10 +504,10 @@ I read every message that lands in my inbox — whether it's a client brief, a c
 
 <div align="center">
 
-<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel"/></a>
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-Explore-B5651D?style=for-the-badge&logo=rocket"/></a>
+<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2a1a12?style=for-the-badge&logo=vercel&logoColor=ffcf99"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/LinkedIn-2a1a12?style=for-the-badge&logo=linkedin&logoColor=E8A855"/></a>
+<a href="https://github.com/Sathveek123"><img src="https://img.shields.io/badge/GitHub-2a1a12?style=for-the-badge&logo=github&logoColor=E8A855"/></a>
+<a href="https://net-quora-x-agency.vercel.app/"><img src="https://img.shields.io/badge/NetQuoraX-2a1a12?style=for-the-badge&logo=rocket&logoColor=E8A855"/></a>
 
 <br/><br/>
 
@@ -495,8 +528,8 @@ I read every message that lands in my inbox — whether it's a client brief, a c
 **Looking for a developer who can handle web, AI, automation, or game dev — and actually ships?**
 Freelance gigs, full-time roles, and interesting collaborations are all welcome.
 
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Hire%20Me-Email-B5651D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/View%20Resume-1a1423?style=for-the-badge&logo=readthedocs&logoColor=E8A855"/></a>
-<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Hire%20Me-2a1a12?style=for-the-badge&logo=gmail&logoColor=E8A855"/></a>
+<a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/View%20Resume-2a1a12?style=for-the-badge&logo=readthedocs&logoColor=E8A855"/></a>
+<a href="https://www.linkedin.com/in/sathveek-nalla-351547293/"><img src="https://img.shields.io/badge/Message%20on%20LinkedIn-2a1a12?style=for-the-badge&logo=linkedin&logoColor=E8A855"/></a>
 
 </div>
