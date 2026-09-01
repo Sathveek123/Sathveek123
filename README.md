@@ -85,38 +85,26 @@
 
 ### 💫 About Me
 
-<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-I'm **Sathveek Nalla**, a final-year **Artificial Intelligence & Machine Learning** student at **GMRIT** — but honestly, most of what I know didn't come from a classroom. It came from shipping things, breaking them, and fixing them again at odd hours.
+<img src="https://img.shields.io/badge/AI%2FML%20Student-2a1a12?style=flat-square&logoColor=E8A855"/> <img src="https://img.shields.io/badge/Full--Stack%20Dev-2a1a12?style=flat-square&logoColor=E8A855"/> <img src="https://img.shields.io/badge/Founder%20@%20NetQuoraX-2a1a12?style=flat-square&logoColor=E8A855"/> <img src="https://img.shields.io/badge/Game%20Dev-2a1a12?style=flat-square&logoColor=E8A855"/>
 
-My story didn't start with "hello world." It started with **selling e-books online** — no code, just a hustle to understand how people buy, what makes them trust a seller, and how to actually run something end-to-end. That business instinct is still the lens I build software through today.
-
-From there:
-
-- I taught myself to code because I wanted to *build* the tools I was using, not just use them
-- Freelancing came next — real clients, real deadlines, real feedback (sometimes brutal, always useful)
-- I built trading bots and automation scripts, which pulled me deep into APIs and systems thinking
-- I picked up **Unity & C#** because I wanted to understand what happens on the *other* side of the games I grew up playing
-- Eventually I stopped freelancing solo and turned it into something bigger — **NetQuoraX**, my own digital solutions agency
-
-Today I move between four worlds — **AI, full-stack web, automation, and game development** — and I like it that way. Cross-pollination between them is where my best ideas come from.
-
-I don't build projects just to have another repo sitting there. I build things that are actually *used* — by a client, by a player, by someone trying to solve a real problem.
+- 🎓 Final-year **AI & ML** @ GMRIT
+- 📖 Started with e-books online, not code
+- 💻 Self-taught → freelance → founder
+- 🎮 Unity dev on the side
+- 🏢 Now running **NetQuoraX**
 
 ```
 Idea → Prototype → Build → Break → Fix → Ship → Repeat
 ```
 
-**Currently focused on:**
-- 🧠 Artificial Intelligence & Generative AI
-- 🌐 Full-Stack Web Development
-- 🤖 Automation, Bots & API Integrations
-- 🎮 Game Development (Unity / C#)
-- 📈 Trading Systems & Strategy Automation
-- 🏢 Building digital products through **NetQuoraX**
-- 💼 Freelancing & Paid Client Delivery
-
 <br clear="right"/>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=ai" width="0"/>
+🧠 AI/GenAI &nbsp; 🌐 Web Dev &nbsp; 🤖 Automation &nbsp; 🎮 Game Dev &nbsp; 📈 Trading &nbsp; 🏢 NetQuoraX &nbsp; 💼 Freelance
+</div>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2a1a12,50:b5651d,100:1a1423&height=3&section=header" width="100%">
@@ -124,40 +112,21 @@ Idea → Prototype → Build → Break → Fix → Ship → Repeat
 
 ### 🕰️ My Journey So Far
 
-<img align="right" width="220" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
-
-Nothing about this path was planned out on a whiteboard. It happened one messy, curious step at a time.
+<img align="right" width="170" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif">
 
 ```
-📚 School
-   → curious about how things actually work under the hood
-        ↓
-📖 Selling e-books online
-   → first taste of business, pricing, and dealing with real customers
-        ↓
-💻 Taught myself to code
-   → HTML/CSS/JS first, then pushed into full-stack territory
-        ↓
-🧾 First freelance gig
-   → got paid to build a website — and got hooked instantly
-        ↓
-🤖 Built my first trading bot
-   → fell head-first into automation, APIs, and market data
-        ↓
-🎮 Picked up Unity
-   → started building games on the side, purely for the love of it
-        ↓
-🎓 Joined GMRIT — AI & ML
-   → academics and real-world projects running side by side
-        ↓
-🏢 Founded NetQuoraX
-   → turned solo freelancing into an actual agency with real clients
-        ↓
-🚀 Right now
-   → shipping AI, web, automation & game projects in parallel
+📚 School            → got curious
+📖 E-book sales      → learned business
+💻 Self-taught code  → HTML → full-stack
+🧾 First freelance   → got hooked
+🤖 Trading bot       → into automation
+🎮 Unity             → started game dev
+🎓 GMRIT (AI/ML)     → academics + builds
+🏢 NetQuoraX         → founded the agency
+🚀 Now               → shipping all 4 🔥
 ```
 
-> *"Every project has taught me something different — from handling clients and deadlines to debugging production systems at 2 AM. And yes, 2 AM bugs are somehow always different."*
+> 🐛 *2 AM bugs hit different.*
 
 <br clear="right"/>
 
@@ -168,56 +137,25 @@ Nothing about this path was planned out on a whiteboard. It happened one messy, 
 ### ⚙️ How I Work
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
-</div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/🧠_Systems_First-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🔁_Ship_%26_Iterate-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🧪_Break_It_Early-2a1a12?style=for-the-badge"/>
+<br/>
+<img src="https://img.shields.io/badge/🎯_Solve_Not_Decorate-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🤝_Client_First-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/📝_Document_Always-2a1a12?style=for-the-badge"/>
 
-**🧠 Think in systems, not just features**
-Before I write a line of code, I map out how a feature touches everything around it — the API contract, the database shape, the user's actual flow, and how it affects the business logic elsewhere. Bugs are usually system problems wearing a feature-shaped disguise.
-
-**🔁 Ship fast, then iterate**
-I'd rather have a real, imperfect version in front of real users this week than a polished version nobody's touched in three months. Feedback from actual use beats guessing every time.
-
-**🧪 Break it before someone else does**
-I stress-test my own assumptions — edge cases, bad inputs, weird user behavior — because I'd rather find the crack in my own build than have a client or a player find it first.
-
-</td>
-<td width="50%" valign="top">
-
-**🎯 Solve, don't decorate**
-If a project doesn't solve a real, specific problem for a real person, it doesn't make the cut. I'm not interested in building things just to have a shinier portfolio.
-
-**🤝 Client-first freelancing habits**
-Years of paid client work taught me the unglamorous skills that actually matter: scoping honestly, communicating early when something's off, and hitting deadlines even when the code fights back.
-
-**📈 Document as I build**
-Whether it's a README, a comment, or a quick Loom, future-me (and whoever inherits the codebase) deserves to know *why* a decision was made, not just *what* the code does.
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="90"/>
 </div>
 
 ---
 
 ### 🧩 What I Build
 
-I split my work across three lanes — they overlap more than you'd think.
-
 <div align="center">
 
 | 🧠 AI & Automation | 🌐 Web & SaaS | 🎮 Interactive |
-|---|---|---|
-| AI-powered applications | Full-stack web apps | Unity games |
-| Trading bots & signal systems | SaaS platforms & dashboards | Browser-based multiplayer games |
-| Telegram bots | Business & client tools | Gameplay systems & mechanics |
-| API integrations & workflows | Academic & ERP platforms | Interactive experiences & prototypes |
+|:---:|:---:|:---:|
+| 🤖 AI Apps | 💻 Full-Stack | 🕹️ Unity Games |
+| 📈 Trading Bots | 🚀 SaaS | 🌐 Browser Games |
+| 💬 Telegram Bots | 📊 Dashboards | ⚔️ Gameplay Systems |
+| 🔗 APIs | 🏢 Biz Tools | 🎨 Interactive UX |
 
 </div>
 
@@ -229,11 +167,9 @@ I split my work across three lanes — they overlap more than you'd think.
 
 <div align="center">
 
-Coffee (or chai) on one side, a playlist on loop, three tabs of Stack Overflow open, and a terminal that's seen things. That's the usual setup when I'm deep in a build.
+☕ Chai &nbsp;·&nbsp; 🎵 Playlist &nbsp;·&nbsp; 🧑‍💻 3 SO tabs &nbsp;·&nbsp; 🐞 vibes
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="400"/>
-
-*"It works" → commits it → immediately breaks something unrelated → questions every life choice → fixes it anyway.*
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="280"/>
 
 </div>
 
@@ -271,22 +207,13 @@ Computer vision project recognizing classical dance hand gestures.
 
 ### 🏢 NetQuoraX — *Digital solutions, built for real businesses*
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
+<img align="right" width="170" src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif">
 
-**NetQuoraX** started as an answer to a problem I kept seeing while freelancing solo: small businesses need more than "a website" — they need a system that actually runs their operations. So I turned freelancing into an agency built to deliver exactly that.
+Freelancing solo → became an agency 🚀
 
-We take an idea from a business owner and turn it into working software — not a mockup, not a slide deck, an actual product they can run their day-to-day on.
-
-**What we deliver:**
-- `Web Development` — from landing pages to full platforms
-- `UI/UX Design` — interfaces people actually enjoy using
-- `AI Integration` — practical AI features, not gimmicks
-- `Automation & Bots` — cutting out repetitive manual work
-- `Cloud & DevOps` — deployments that don't fall over under load
-- `Mobile Applications` — cross-platform, built to scale
-- `Cybersecurity` — baked in, not bolted on afterward
-- `Trading Solutions` — for clients who need market-facing tools
-- `Maintenance & Optimization` — because shipping isn't the finish line
+<img src="https://img.shields.io/badge/🌐_Web_Dev-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🎨_UI%2FUX-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🧠_AI_Integration-2a1a12?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/🤖_Automation-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/☁️_Cloud%2FDevOps-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/📱_Mobile-2a1a12?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/🔐_Cybersecurity-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/📈_Trading_Solutions-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🛠️_Maintenance-2a1a12?style=flat-square"/>
 
 <br clear="right"/>
 
@@ -302,7 +229,7 @@ We take an idea from a business owner and turn it into working software — not 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100"/>
 </div>
 
-I pick tools based on what the project actually needs, not what's trendy — though I'll admit I enjoy trying the trendy ones too.
+<img src="https://img.shields.io/badge/Right_tool_for_the_job-2a1a12?style=flat-square"/>
 
 **Languages**
 <img src="https://skillicons.dev/icons?i=python,cpp,c,cs,java,js,ts,php,bash"/>
@@ -323,7 +250,7 @@ I pick tools based on what the project actually needs, not what's trendy — tho
 <img src="https://skillicons.dev/icons?i=git,github,vscode,npm"/>
 
 <div align="center">
-<sub>The stack changes project to project — the standard doesn't: clean, maintainable, and shippable.</sub>
+<sub>🧼 clean · 🔧 maintainable · 🚀 shippable</sub>
 </div>
 
 <div align="center">
@@ -332,22 +259,14 @@ I pick tools based on what the project actually needs, not what's trendy — tho
 
 ### 🎮 Game Dev Corner
 
-<img align="right" width="200" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" width="170" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-I don't just play games — I like reverse-engineering *why* they feel the way they feel, then building the systems that make that happen.
+<img src="https://img.shields.io/badge/🔫_FPS-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🏎️_Vehicles-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🧠_NPC_AI-2a1a12?style=flat-square"/><br/>
+<img src="https://img.shields.io/badge/🌎_3D_Worlds-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🕹️_2D_Games-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🌐_Multiplayer-2a1a12?style=flat-square"/>
 
-In Unity, I've experimented with:
+🐍 Biggest build: **ViperFlux.io** — multiplayer browser snake game
 
-- 🔫 **FPS prototypes** — shooting mechanics, hit detection, weapon feel
-- 🏎️ **Vehicle systems** — physics-based handling and controls
-- 🧠 **NPC waypoint AI** — enemies and characters that navigate intelligently
-- 🌎 **3D environments** — level design and world-building basics
-- 🕹️ **2D gameplay systems** — tighter, more arcade-style mechanics
-- 🌐 **Browser multiplayer** — real-time gameplay over the network with Phaser
-
-My biggest gaming project right now is **ViperFlux.io** — a full multiplayer browser-based snake game built from the ground up, covering everything from real-time sync to progression and skins.
-
-`Unity` · `C#` · `Phaser` · `JavaScript` · `Multiplayer Architecture`
+<img src="https://skillicons.dev/icons?i=unity"/> `C#` `Phaser` `JS`
 
 <br clear="right"/>
 
@@ -356,57 +275,30 @@ My biggest gaming project right now is **ViperFlux.io** — a full multiplayer b
 ### 🤖 AI • Automation • APIs
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="90"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749726-d36b8253-74bb-4509-870d-e29ed3b8ff4a.gif" width="80"/>
 </div>
 
-I like making systems talk to each other so a human doesn't have to babysit the repetitive parts.
-
 ```
-   USER
-     │
-     ▼
-  WEB / APP
-     │
-     ▼
- API / BACKEND
-     │
-   ┌─┴─┐
-   ▼   ▼
-  AI   DATABASE
-   │   │
-   └─┬─┘
-     ▼
- AUTOMATION
+USER → WEB/APP → API/BACKEND → [AI + DATABASE] → AUTOMATION 🤖
 ```
 
-**Where this shows up in my projects:**
-- 🧠 Generative AI features embedded directly into products (not bolted on as a chatbot afterthought)
-- 🔗 REST API design & integration across third-party services
-- 🤖 Telegram bots for notifications, trading signals, and workflows
-- ⚙️ Workflow automation with tools like **n8n**
-- 📊 Technical analysis pipelines for trading systems
-- 🧹 Data processing pipelines that clean and structure messy real-world data
-- ☁️ Cloud deployment of AI/automation services so they run reliably, unattended
+<div align="center">
 
-`Generative AI` · `REST APIs` · `Telegram Bots` · `n8n` · `Data Processing` · `Technical Analysis` · `Cloud Deployments`
+<img src="https://img.shields.io/badge/🧠_GenAI-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/🔗_REST_APIs-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/💬_Telegram_Bots-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/⚙️_n8n-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/📊_Tech_Analysis-2a1a12?style=flat-square"/> <img src="https://img.shields.io/badge/☁️_Cloud_Ops-2a1a12?style=flat-square"/>
+
+</div>
 
 ---
 
 ### ☁️ Cloud Journey
 
-<img align="left" width="150" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="left" width="130" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
 
-Cloud is the part of the stack I'm most actively leveling up right now — because a great app that can't scale or survive a traffic spike isn't actually finished.
+<img src="https://skillicons.dev/icons?i=aws"/> `EC2` `S3` `VPC` `IAM` `RDS` `PostgreSQL`
 
-Hands-on with:
+<img src="https://skillicons.dev/icons?i=vercel,firebase,cloudflare,netlify"/>
 
-`AWS EC2` · `S3` · `VPC` · `IAM` · `RDS` · `PostgreSQL`
-
-Deploying regularly through:
-
-`Vercel` · `Render` · `Netlify` · `Firebase` · `Cloudflare`
-
-The goal isn't collecting certifications — it's being able to take something from *"works on my machine"* to *"works reliably for real users, at real scale."*
+> 🚀 *"Works on my machine" → "works at scale."*
 
 <br clear="left"/>
 
@@ -486,19 +378,18 @@ while (developer.isAlive) {
 
 ### 🤝 Let's Build Something
 
-Open to: **Freelance projects** · **Collaborations** · **Startup ideas** · **AI projects** · **Game dev** · **Automation systems**
-
-I read every message that lands in my inbox — whether it's a client brief, a collab idea, or just someone who wants to talk shop about AI or game dev.
+<div align="center">
+<img src="https://img.shields.io/badge/💼_Freelance-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🤝_Collabs-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🚀_Startups-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🧠_AI_Projects-2a1a12?style=for-the-badge"/> <img src="https://img.shields.io/badge/🎮_Game_Dev-2a1a12?style=for-the-badge"/>
+</div>
 
 <div align="center">
 
 | | |
 |---|---|
-| 🎓 **Studying** | AI & Machine Learning, GMRIT |
+| 🎓 **Studying** | AI & ML, GMRIT |
 | 🏢 **Founder** | NetQuoraX |
-| 💼 **Open to** | Freelance & Full-time opportunities |
+| 💼 **Open to** | Freelance & Full-time |
 | 📍 **Based in** | India |
-| ⚡ **Fun fact** | I've shipped more side projects than semesters completed |
 
 </div>
 
@@ -513,9 +404,7 @@ I read every message that lands in my inbox — whether it's a client brief, a c
 
 ⚡ **BUILD. BREAK. LEARN. SHIP. REPEAT.**
 
-<sub>thanks for scrolling all the way down — grab a coffee, let's build something ☕</sub>
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="150"/>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/a762dc06-3a4c-432e-8679-a99fe8a433b7" width="130"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a1a12,35:b5651d,70:5c3a21,100:1a1423&height=140&section=footer"/>
 
@@ -525,8 +414,7 @@ I read every message that lands in my inbox — whether it's a client brief, a c
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:b5651d,50:e8a855,100:b5651d&height=100&section=header&text=Open%20To%20Work%20%E2%80%94%20Let's%20Talk&fontSize=28&fontColor=1a1423&fontAlignY=55" width="100%"/>
 
-**Looking for a developer who can handle web, AI, automation, or game dev — and actually ships?**
-Freelance gigs, full-time roles, and interesting collaborations are all welcome.
+**Looking for a developer who can handle web, AI, automation, or game dev — and ships?**
 
 <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Hire%20Me-2a1a12?style=for-the-badge&logo=gmail&logoColor=E8A855"/></a>
 <a href="https://sathveek-official-resume.vercel.app/"><img src="https://img.shields.io/badge/View%20Resume-2a1a12?style=for-the-badge&logo=readthedocs&logoColor=E8A855"/></a>
